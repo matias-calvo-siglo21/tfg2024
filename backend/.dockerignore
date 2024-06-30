@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+.Python
+env
+.venv
+venv
+ENV
+ENV.bak
+venv.bak
+.idea
+.vscode
+
